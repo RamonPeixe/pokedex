@@ -1,1 +1,1 @@
-Projeto de Pokédex desenvolvido em conjunto do vídeo "Como criar uma Pokedex com HTML, CSS e JavaScript"
+Projeto de Pokédex desenvolvido em conjunto do vídeo "Como criar uma Pokedex com HTML, CSS e JavaScript" - Manual do Dev
